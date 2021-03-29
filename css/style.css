@@ -297,6 +297,10 @@ body {
     color: rgba(21, 20, 57, 0.4);
 }
 
+.footer__logo{
+    width: 102px;
+}
+
 .footer__social{
     margin-left: 35px;
 }
